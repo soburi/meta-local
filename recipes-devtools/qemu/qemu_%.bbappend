@@ -1,1 +1,1 @@
-EXTRA_OECONF_append:xen = " --enable-xen"
+EXTRA_OECONF:append:xen = " --enable-xen"
