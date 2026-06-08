@@ -1,0 +1,2 @@
+part / --source rootfs --ondisk vda --fstype=ext4 --label root --align 1024
+bootloader --ptable msdos
